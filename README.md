@@ -11,11 +11,8 @@ Start making the UI design for web page.
 ### Step 2:
 Start making the UI design for web page.
 
-
 ### Step 3:
 Start making the UI design for web page.
-
-
 ## OUTPUT:
 ![eig](1.png)
 ![eig](2.png)
